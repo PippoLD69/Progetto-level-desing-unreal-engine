@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lorenzo.dangelo/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Levels/RagdollLevel.umap",
+				"C:/Users/lorenzo.dangelo/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Levels/LevelPrototyping/LevelVisuals.uasset",
 				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Levels/RagdollLevel.umap",
 				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Fishing_Town/scene/Textures/lpb_gradient_baseColor.uasset",
 				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Fishing_Town/scene/Materials/material.uasset",
@@ -553,8 +555,7 @@
 				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Ground_Material/Textures/StonepavementWithGravelLeaves_roughness.uasset",
 				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Ground_Material/Textures/StonepavementWithGravelLeaves_normal.uasset",
 				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Ground_Material/Additional_Textures/StonepavementWithGravelLeaves_ambientOcclu.uasset",
-				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Ground_Material/Plane.uasset",
-				"C:/Users/lorenzo.dangelo/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Levels/RagdollLevel.umap"
+				"C:/Users/VG-it/OneDrive/Documenti/Fork/Progetto-level-desing-unreal-engine/gameanimationsample/Content/Fab/Ground_Material/Plane.uasset"
 			]
 		}
 	]
