@@ -74,3 +74,6 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 gameanimationsample/Intermediate
+gameanimationsample/Binaries
+gameanimationsample/Build
+gameanimationsample/Saved
